@@ -1,2 +1,71 @@
-# ecdb611f-web-accessibility-wcag-docum
-Stop wasting hours manually auditing and documenting accessibility compliance. Generate WCAG-ready documentation directly from your codebase.  This extension eliminates the tedious process of writing and updating accessibility documentation by automatically extracting accessibility patterns, ARIA attributes, and contrast ratios from your code. It's
+# Web Accessibility (WCAG) Documentation Generator VS Code Extension
+
+> Auto-generate API docs, README files, and inline comments from Web Accessibility (WCAG) code patterns. Saves 2-3 hours per week on documentation.
+
+## Features
+
+- Core functionality
+
+## Installation
+
+### From VS Code Marketplace
+1. Open VS Code
+2. Press `Ctrl+P` (or `Cmd+P` on Mac)
+3. Type `ext install digitalforge.ecdb611f`
+4. Press Enter
+
+### From VSIX file
+1. Download the `.vsix` file
+2. In VS Code: `Extensions > ··· > Install from VSIX`
+3. Select the downloaded file
+
+## Usage
+
+Press `Ctrl+Shift+P` and search for `Web Accessibility (WCAG) Documentation Generator VS Code Extension` to see all available commands.
+
+**Keyboard shortcut:** `Ctrl+Shift+Alt+A` (or `Cmd+Shift+Alt+A` on Mac)
+
+## Settings
+
+| Setting | Default | Description |
+|---------|---------|-------------|
+| `ecdb611f.enabled` | `true` | Enable/disable the extension |
+| `ecdb611f.autoRun` | `false` | Auto-run on file open |
+| `ecdb611f.logLevel` | `"info"` | Log verbosity |
+
+## Requirements
+
+- VS Code 1.74.0 or higher
+
+## Contributing
+
+Found a bug? [Open an issue](https://github.com/digitalforge/ecdb611f/issues).
+
+## License
+
+MIT — see [LICENSE](LICENSE) for details.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core language support | Yes | Yes |
+| Basic snippets | Yes | Yes |
+| Standard themes | Yes | Yes |
+| AI-powered completions | - | Yes |
+| Advanced refactoring | - | Yes |
+| Team sync | - | Yes |
+| Custom keybindings | - | Yes |
+| Priority bug fixes | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x228rh1B8Isf44bzScZo09)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x228rh1B8Isf44bzScZo09)
+
